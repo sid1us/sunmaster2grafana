@@ -1,5 +1,5 @@
 # sunmaster2grafana
-Grafana with Mastervolt Sunmaster Inverter \n
+Grafana with Mastervolt Sunmaster Inverter 
 Requirements:
 Hardware
 MasterVolt Sunmaster Inverter like XS3200 QS6400
